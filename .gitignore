@@ -1,8 +1,10 @@
-./build
-./lib
-./scripts
+build/
+lib/
+scripts/
 *.user
 *.sln
 *.vcxproj
 *.filters
 *.aip
+*.yml
+LICENSE
